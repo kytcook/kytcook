@@ -8,12 +8,15 @@
 -->
 
 <div align=center>
+  
 <!-- Github Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kytcook&show_icons=true&theme=tokyonight)
+
 </div>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer)
+
 <!--
 **kytcook/kytcook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
