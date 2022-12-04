@@ -1,8 +1,9 @@
 <!-- 헤더 -->
 <!-- text띄어쓰기 : %20 -->
 <!-- 폰트색 : 스노우색 &fontColor=FFFAFA -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&animation=blink&fontAlign=60&fontAlignY=32&fontSize=80&desc=Taek's%20Github&descSize=30&descAlign=72&descAlignY=45&rotate=20&stroke=6600CC&fontColor=FFFAFA)
-![header](https://capsule-render.vercel.app/api?text=hello)
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=220&section=header&text=Taek's%20Github&fontAlign=78&fontAlignY=44&fontSize=40&desc=Hello&descSize=80&descAlign=88&descAlignY=-24&rotate=15&stroke=6600CC&fontColor=FFFAFA&animation=blink)
+
 <!-- 가장많이 사용하는 언어 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kytcook&layout=compact)](https://github.com/kytcook/github-readme-stats)
 -->
@@ -15,7 +16,7 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=220&section=footer)
 
 <!--
 **kytcook/kytcook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
