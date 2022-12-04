@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <!-- text띄어쓰기 : %20 -->
 <!-- 폰트색 : 스노우색 &fontColor=FFFAFA -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&animation=twinkling&fontAlign=60&fontAlignY=33&fontSize=80&desc=Taek's%20Github&descSize=30&descAlign=60&descAlignY=50&rotate=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&animation=twinkling&fontAlign=60&fontAlignY=33&fontSize=80&desc=Taek's%20Github&descSize=30&descAlign=70&descAlignY=40&rotate=20)
 
 <!-- 가장많이 사용하는 언어 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kytcook&layout=compact)](https://github.com/kytcook/github-readme-stats)
