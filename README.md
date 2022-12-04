@@ -16,7 +16,7 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=220&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=footer)
 
 <!--
 **kytcook/kytcook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
