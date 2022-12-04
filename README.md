@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- 헤더 -->
-<!-- text띄어쓰기 : %20 ->
+<!-- text띄어쓰기 : %20 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&fontSize=60&desc=I'm%20Taek)
 
 <!-- 가장많이 사용하는 언어 
