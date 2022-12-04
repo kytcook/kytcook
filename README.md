@@ -12,7 +12,7 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&animation=twinkling&fontAlign=60&fontAlignY=32&fontSize=80&desc=Taek's%20Github&descSize=30&descAlign=72&descAlignY=45&rotate=20&fontColor=FFFAFA)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer&text=Hello&animation=twinkling&fontAlign=60&fontAlignY=32&fontSize=80&desc=Taek's%20Github&descSize=30&descAlign=72&descAlignY=45&rotate=20&fontColor=FFFAFA)
 <!--
 **kytcook/kytcook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
