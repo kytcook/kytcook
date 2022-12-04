@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!-- 가장많이 사용하는 언어 -->
+<!-- 가장많이 사용하는 언어 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kytcook&layout=compact)](https://github.com/kytcook/github-readme-stats)
+-->
 
 <!-- Github Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kytcook&show_icons=true&theme=tokyonight)
