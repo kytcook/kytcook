@@ -8,16 +8,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kytcook&layout=compact)](https://github.com/kytcook/github-readme-stats)
 -->
 
----
-Email | kytcook@google.com
-
-<div align=center>
   
+<div align=center>  
+
+📒　
+  
+✉　kytcook@google.com  
+  
+
+    
 <!-- Github Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kytcook&show_icons=true&theme=tokyonight)
 
 </div>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)
 
