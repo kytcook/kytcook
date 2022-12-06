@@ -16,7 +16,7 @@
   
   #### ✉　| kytcook@google.com  
   
-  #### 💼　| <a href="">projects record</a>　　　
+  #### 💼　| <a href="https://messenger-kh.notion.site/a46f372991a04b189f9cae2ed91c0d07">projects record</a>　　　
   
   #### ✏　| <a href="https://messenger-kh.notion.site/5e2ed7dc0114427091c63ed7f3a76b59">study</a>　　　　　　 　
   
